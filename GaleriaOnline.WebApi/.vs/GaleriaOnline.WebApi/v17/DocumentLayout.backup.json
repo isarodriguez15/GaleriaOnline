@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0761637-D545-48CD-A88C-60F291F95209}|GaleriaOnline.WebApi.csproj|c:\\users\\46206573877\\desktop\\galeriaonline\\galeriaonline.webapi\\repository\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0761637-D545-48CD-A88C-60F291F95209}|GaleriaOnline.WebApi.csproj|solutionrelative:repository\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0761637-D545-48CD-A88C-60F291F95209}|GaleriaOnline.WebApi.csproj|c:\\users\\46206573877\\desktop\\galeriaonline\\galeriaonline.webapi\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0761637-D545-48CD-A88C-60F291F95209}|GaleriaOnline.WebApi.csproj|solutionrelative:controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ImagemController.cs",
-              "DocumentMoniker": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ImagemController.cs",
-              "ToolTip": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
-              "RelativeToolTip": "Controllers\\ImagemController.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAswK0AAAAJAAAAAAAAAA==",
+              "Title": "ImagemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Repository\\ImagemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ImagemRepository.cs",
+              "ToolTip": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Repository\\ImagemRepository.cs",
+              "RelativeToolTip": "Repository\\ImagemRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:04:07.181Z",
+              "WhenOpened": "2025-08-21T12:31:24.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ImagemController.cs",
+              "DocumentMoniker": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagemController.cs",
+              "ToolTip": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
+              "RelativeToolTip": "Controllers\\ImagemController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswJgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:04:07.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:10:20.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:10:20.439Z"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/J+1aimsOkpvb2vR8oQ/VL/XqheeXyqLOHSLNsM4Da0=",
+  "Hash": "3dvOyBbMuSvjS5WrGhDkYBWR3WIR9BJGAI1FM1Fw/jg=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\80f8c450-8b19-4cc3-b9e2-bd9d02369d0f.jpg",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/80f8c450-8b19-4cc3-b9e2-bd9d02369d0f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "flomrzre0u",
+      "Integrity": "/UKxGcZTLxPAJV4Xv6qPBQy0VUAMKkl+DUCI/h24MCk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\80f8c450-8b19-4cc3-b9e2-bd9d02369d0f.jpg"
+    },
     {
       "Identity": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\dec2ba18-dc42-4391-924a-01e450508a2e.png",
       "SourceId": "GaleriaOnline.WebApi",
@@ -39,6 +60,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "imagens/80f8c450-8b19-4cc3-b9e2-bd9d02369d0f.flomrzre0u.jpg",
+      "AssetFile": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\80f8c450-8b19-4cc3-b9e2-bd9d02369d0f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UKxGcZTLxPAJV4Xv6qPBQy0VUAMKkl+DUCI/h24MCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Aug 2025 12:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "flomrzre0u"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/80f8c450-8b19-4cc3-b9e2-bd9d02369d0f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UKxGcZTLxPAJV4Xv6qPBQy0VUAMKkl+DUCI/h24MCk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/80f8c450-8b19-4cc3-b9e2-bd9d02369d0f.jpg",
+      "AssetFile": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\80f8c450-8b19-4cc3-b9e2-bd9d02369d0f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UKxGcZTLxPAJV4Xv6qPBQy0VUAMKkl+DUCI/h24MCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Aug 2025 12:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UKxGcZTLxPAJV4Xv6qPBQy0VUAMKkl+DUCI/h24MCk="
+        }
+      ]
+    },
     {
       "Route": "imagens/dec2ba18-dc42-4391-924a-01e450508a2e.chfeqiffg7.png",
       "AssetFile": "C:\\Users\\46206573877\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\dec2ba18-dc42-4391-924a-01e450508a2e.png",
